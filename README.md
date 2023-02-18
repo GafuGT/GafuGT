@@ -4,7 +4,7 @@ I'm Gafu, 19 years old. I'm a self taught developer from France
 
 My most common used languages are C++, C#, Python, JS And Php
 
-You can also find me on youtube
+I’m currently learning ... Java
 
 <!--
 **GafuGT/GafuGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
