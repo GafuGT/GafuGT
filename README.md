@@ -7,7 +7,7 @@ I’m currently learning ... Java
 
 I’ve been actively developing programs for a year now. Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team. Read much specialized literature. I like to achieve perfection in everything I do.
 
-🌐 Languages : English, French
+🌐 Languages : English, French and Turkish
 
 My stack and tools :
 HTML  CSS  JS  Bem  Sass  Github  Visual Studio Code  Figma  Git  Terminal 
